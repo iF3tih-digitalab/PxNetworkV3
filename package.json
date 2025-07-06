@@ -1,0 +1,16 @@
+{
+  "name": "pxnetwork-bot-ui",
+  "version": "1.0.0",
+  "description": "PX Network Auto Mining Bot - NT Exhaust UI",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.7",
+    "chalk": "^5.3.0",
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.10.3"
+  }
+}
