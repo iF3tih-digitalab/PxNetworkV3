@@ -1,2 +1,1 @@
-Bearer eyJhbGciOiJ...abc123 (akun 1)
-Bearer eyJhbGciOiJ...xyz456 (akun 2)
+Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
